@@ -5,7 +5,7 @@
 This notebook implements a deep learning model to recognize food items from images and estimate their calorie content.
 
 The model is trained using the Food-101 dataset and utilizes transfer learning with MobileNetV2 for accurate image classification.
-
+ 
 ---
 
 ##  What This Notebook Covers
